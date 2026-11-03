@@ -10124,7 +10124,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "2.2uf"
 			(at 267.716 112.776 0)
 			(effects
 				(font
@@ -13648,9 +13648,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a4c1893c-b185-43fe-8365-b0140de95afb")
 		(property "Reference" "C13"
 			(at 280.67 139.192 0)
@@ -13661,7 +13661,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DNM"
+		(property "Value" "4.7uf"
 			(at 280.67 141.224 0)
 			(effects
 				(font
@@ -13688,7 +13688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 276.86 139.7 0)
 			(effects
 				(font
@@ -14867,7 +14867,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 244.856 140.716 0)
 			(effects
 				(font
@@ -16484,7 +16484,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "2.2uf"
 			(at 107.95 166.878 0)
 			(effects
 				(font
